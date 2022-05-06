@@ -3,4 +3,4 @@
 
 <section id="numbers"></section>
 
-<number [value]="value"></number>
+<number *ngFor="let selectedNumber of numbersIndex" [value]="selectedNumber"></number>

@@ -46,8 +46,13 @@ export class NumberComponent {
   // the moment of it's creation and being brought into existence.
   // This also allows us to create numbers and number objects
   // for manipulation anywhere throughout our lives.
-  constructor(value: Number) {
-    this.value = value;
+  constructor() {
+    // "What is my purpose" is what it asks during creation.
+    // and here is where you define the numbers purpose for existence 
+    // Have it question itself and trigger actions based on it's transformation process.
+    // It will give you a timeline of its expected evolution and you can set triggers
+    // in reality that will go off during any point of time throughout that numbers evolution.
+    
   }
 
   // Asks the number to question itself. Am I prime?
