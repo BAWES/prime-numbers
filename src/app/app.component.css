@@ -1,0 +1,13 @@
+body {
+  font-family: system-ui;
+  color: black;
+  text-align: center;
+  font-size: 1.2em;
+}
+
+h1 {
+  margin-bottom: 0;
+}
+h2 {
+  margin-top: 0;
+}
